@@ -4,8 +4,8 @@ typeof username === 'string';
 
 console.log(username);
 
-function printUser(a: String) {
-  return a + '1';
+function printUser(a: string) {
+  return a + '11';
 }
 
 printUser('1');
